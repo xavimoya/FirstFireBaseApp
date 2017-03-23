@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HelloFirebase</string>
+    <string name="input_your_text_here">input your text here</string>
+    <string name="senddata">send</string>
+    <string name="text_write_default">Write default greeting message to realtime DB</string>
+    <string name="defaultValue">Hello Firebase !</string>
+    <string name="log_in">Log In</string>
+    <string name="register">Register</string>
+    <string name="log_out">Log Out</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+</resources>
